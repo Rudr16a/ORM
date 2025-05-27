@@ -1,0 +1,11 @@
+streamlit
+pandas
+requests
+apify-client
+textblob
+praw
+nltk
+pymongo
+schedule
+sendgrid
+python-dotenv

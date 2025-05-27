@@ -1,0 +1,7 @@
+Collecting pymongo
+  Obtaining dependency information for pymongo from https://files.pythonhosted.org/packages/45/bd/d6286b923e852dc080330182a8b57023555870d875b7523454ad1bdd1579/pymongo-4.13.0-cp311-cp311-win_amd64.whl.metadata
+  Using cached pymongo-4.13.0-cp311-cp311-win_amd64.whl.metadata (22 kB)
+Requirement already satisfied: dnspython<3.0.0,>=1.16.0 in c:\users\rudra\downloads\orm\venv\lib\site-packages (from pymongo) (2.7.0)
+Using cached pymongo-4.13.0-cp311-cp311-win_amd64.whl (848 kB)
+Installing collected packages: pymongo
+Successfully installed pymongo-4.13.0
